@@ -1,3 +1,3 @@
 # Busca-Cep
 
-<a href="https://climacobnu.github.io/Controle-Estoque/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
+<a href="https://climacobnu.github.io/Busca-Cep/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
